@@ -20,6 +20,7 @@ Q5. What does “Merged Map outputs” represent?
 
 It represents the total number of intermediate map output files that reducers merge before running reduce().
 
+
 Exercise 2
 
 Q1. Is your change in the mapper or in the reducer?
@@ -28,11 +29,16 @@ In the mapper.
 
 Q2. Submit code in GitHub
 
+https://github.com/8anna8b6/big-data-ex2
+
+
 Exercise 3
 
 Q1. Is your change in the mapper or the reducer?
 
-In the reducer.
+In the reducer.Both must be done before counting, so the mapper emits normalized keys.
 
-Both must be done before counting, so the mapper emits normalized keys.
+Q2. Submit code in GitHub
+
+https://github.com/8anna8b6/big-data-ex3
 
